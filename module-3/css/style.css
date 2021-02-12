@@ -21,7 +21,10 @@ body
   font-size: 1.5em;
   text-transform: uppercase;
   font-weight: bold;
+<<<<<<< HEAD
   text-shadow: 1px 1px 1px #222;
+=======
+>>>>>>> 042d04b5810eafacd87a6b1a31b3350af3d569fd
   margin-top: 0;
   margin-bottom: 0;
   line-height: .75;
